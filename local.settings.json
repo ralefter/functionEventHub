@@ -1,0 +1,8 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=functionappaada818;AccountKey=Xa2rnIuxTzRKsdNjE5iABmifRUtAmN0k2sVQmZEMP/tLjPFi0o3pX89q5tAtDEaaNQkII8jkcCn1bQTUCp6cJQ==;BlobEndpoint=https://functionappaada818.blob.core.windows.net/;TableEndpoint=https://functionappaada818.table.core.windows.net/;QueueEndpoint=https://functionappaada818.queue.core.windows.net/;FileEndpoint=https://functionappaada818.file.core.windows.net/",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "SB": "Endpoint=sb://evhubs.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=GKbJq1d/nH8O2KBK0jKMCntjfbBe+Tmxdb/LKoBiGDI="
+  }
+}
